@@ -2,7 +2,7 @@
 
 ### About me:
 
-I'm an enthusiastic IT student with 4+ years of hands-on experience in full-stack software development. 
+I'm an enthusiastic Software Developer with 4+ years of hands-on experience in full-stack software development. 
 Today, my main language is C# and Python and I'm always looking for new ways to improve my skills, whether through personal projects or online courses.
 
 - 🔧 I'm currently working on TOTVS as a Software/DevOps Analyst
